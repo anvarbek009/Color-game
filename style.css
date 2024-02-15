@@ -1,6 +1,6 @@
 .container {
     width: 300px;
-    margin-left: 600px;
+    margin:0 auto;
     text-align: center;
 }
 
